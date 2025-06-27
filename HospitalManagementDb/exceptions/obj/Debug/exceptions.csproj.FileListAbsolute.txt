@@ -1,0 +1,6 @@
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\exceptions\bin\Debug\exceptions.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\exceptions\bin\Debug\exceptions.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\exceptions\obj\Debug\exceptions.csproj.AssemblyReference.cache
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\exceptions\obj\Debug\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\exceptions\obj\Debug\exceptions.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\exceptions\obj\Debug\exceptions.pdb

@@ -1,0 +1,13 @@
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\bin\Debug\dao.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\bin\Debug\dao.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\bin\Debug\entity.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\bin\Debug\util.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\bin\Debug\entity.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\bin\Debug\util.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\obj\Debug\dao.csproj.AssemblyReference.cache
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\obj\Debug\dao.csproj.CoreCompileInputs.cache
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\obj\Debug\dao.csproj.Up2Date
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\obj\Debug\dao.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\obj\Debug\dao.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\bin\Debug\exceptions.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\dao\bin\Debug\exceptions.pdb

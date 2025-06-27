@@ -1,0 +1,17 @@
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\HospitalManagementDb.exe.config
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\HospitalManagementDb.exe
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\HospitalManagementDb.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\dao.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\entity.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\exceptions.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\util.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\dao.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\entity.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\exceptions.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\bin\Debug\util.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\obj\Debug\HospitalManagementDb.csproj.AssemblyReference.cache
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\obj\Debug\HospitalManagementDb.csproj.CoreCompileInputs.cache
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\obj\Debug\Hospital.7963BDC1.Up2Date
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\obj\Debug\HospitalManagementDb.exe
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\obj\Debug\HospitalManagementDb.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\HospitalManagementDb\obj\Debug\HospitalManagementDb.exe.config

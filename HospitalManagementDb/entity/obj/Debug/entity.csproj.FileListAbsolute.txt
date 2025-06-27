@@ -1,0 +1,6 @@
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\entity\bin\Debug\entity.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\entity\bin\Debug\entity.pdb
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\entity\obj\Debug\entity.csproj.AssemblyReference.cache
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\entity\obj\Debug\entity.csproj.CoreCompileInputs.cache
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\entity\obj\Debug\entity.dll
+C:\Users\Nikhilesh S\source\repos\HospitalManagementDb\entity\obj\Debug\entity.pdb
